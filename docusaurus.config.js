@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Diagrid Docs',
+  tagline: 'Diagrid is Wizard',
   //url: 'https://your-docusaurus-test-site.com',
   //baseUrl: '/',
   url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
